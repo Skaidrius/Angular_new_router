@@ -1,0 +1,23 @@
+{
+  "name": "NewAngularRouter",
+  "version": "1.0.0",
+  "description": "learning new AngularJS router (atm for 1.4 & 2.0)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Skaidrius/Angular_new_router.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "1.4"
+  ],
+  "author": "Skaidrius",
+  "license": "free",
+  "bugs": {
+    "url": "https://github.com/Skaidrius/Angular_new_router/issues"
+  },
+  "homepage": "https://github.com/Skaidrius/Angular_new_router"
+}
